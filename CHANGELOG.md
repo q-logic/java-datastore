@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.102.0](https://www.github.com/googleapis/java-datastore/compare/v1.101.4...v1.102.0) (2020-04-24)
+
+
+### Features
+
+* add flatten plugin to client and proto modules ([#108](https://www.github.com/googleapis/java-datastore/issues/108)) ([fb3566d](https://www.github.com/googleapis/java-datastore/commit/fb3566d31600b9ed629a2daa46c5202a894181b2))
+
+
+### Dependencies
+
+* update dependency com.google.guava:guava-bom to v29 ([#95](https://www.github.com/googleapis/java-datastore/issues/95)) ([32d5e37](https://www.github.com/googleapis/java-datastore/commit/32d5e37f244969ba980cd94a8eaa8165b368ebc6))
+* update dependency org.threeten:threetenbp to v1.4.4 ([#112](https://www.github.com/googleapis/java-datastore/issues/112)) ([41d571d](https://www.github.com/googleapis/java-datastore/commit/41d571d1e18f1400f7975a6e82646417ed39ee84))
+
 ### [1.101.4](https://www.github.com/googleapis/java-datastore/compare/v1.101.3...v1.101.4) (2020-04-08)
 
 
